@@ -19,6 +19,7 @@ CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14
 CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
 CCTV-16,http://z.b.bkpcp.top/m.php?id=cctv16
+CCTV-17,http://z.b.bkpcp.top/m.php?id=cctv17
 https://aktv.top/live.txt
 美亚电影台,https://iptv.vip-tptv.xyz/tv.php?id=1
 天映,https://iptv.vip-tptv.xyz/tv.php?id=2
