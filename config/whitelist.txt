@@ -2,6 +2,23 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
+CCTV-1,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV-2,http://z.b.bkpcp.top/m.php?id=cctv2
+CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3
+CCTV-4,http://z.b.bkpcp.top/m.php?id=cctv4
+CCTV-5,http://z.b.bkpcp.top/m.php?id=cctv5
+CCTV-5+,http://z.b.bkpcp.top/m.php?id=cctv5p
+CCTV-6,http://z.b.bkpcp.top/m.php?id=cctv6
+CCTV-7,http://z.b.bkpcp.top/m.php?id=cctv7
+CCTV-8,http://z.b.bkpcp.top/m.php?id=cctv8
+CCTV-9,http://z.b.bkpcp.top/m.php?id=cctv9
+CCTV-10,http://z.b.bkpcp.top/m.php?id=cctv10
+CCTV-11,http://z.b.bkpcp.top/m.php?id=cctv11
+CCTV-12,http://z.b.bkpcp.top/m.php?id=cctv12
+CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
+CCTV-14,http://z.b.bkpcp.top/m.php?id=cctv14
+CCTV-15,http://z.b.bkpcp.top/m.php?id=cctv15
+CCTV-16,http://z.b.bkpcp.top/m.php?id=cctv16
 https://aktv.top/live.txt
 美亚电影台,https://iptv.vip-tptv.xyz/tv.php?id=1
 天映,https://iptv.vip-tptv.xyz/tv.php?id=2
