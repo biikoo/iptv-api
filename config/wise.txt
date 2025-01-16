@@ -23,56 +23,55 @@ CETV4
 CETV5
 
 📡AKTV,#genre#
-中天新聞台
-翡翠台
-TVBS-新聞台
-寰宇新聞台
+美亞電影台(HK)
+PopC
+靖天電影台
+龍華電影台
+龍華經典台
+龍華日韓台
 鳳凰中文
-凤凰卫视中文台
-TVBS
-无线新闻台(北美)
 鳳凰資訊
-凤凰卫视资讯台
-無線新聞台
-明珠台
-東森新聞
 鳳凰香港
-凤凰卫视香港台
-TVB Plus
-TVB星河
-中天亞洲台
+無線新聞台
+无线新闻台(北美)
+無線衛星新聞台
+翡翠台
 翡翠综合台(北美)
 千禧經典台(HK)
 翡翠剧集台(北美)
+娛樂新聞台(HK)
 黃金翡翠台
+TVB Plus
+中天新聞台
+TVBS
+TVBS-新聞台
+東森新聞
+寰宇新聞台
+亞洲新聞台
+東方衛視國際頻道
+明珠台
+明珠剧集台(北美)
+中天亞洲台
 myTV SUPER 18台
 中視
-明珠剧集台(北美)
 Channel 8 HD
 Channel 5 HD
 viutv 99
-靖天電影台
 華視
 28 AI 智慧賽馬
 tvN
 ROCK Action
-龍華經典台
 viutv6 96
 Channel U HD
 Animax(HK)
-無線衛星新聞台
-龍華日韓台
 Thrill
 France 24
 DW
-亞洲新聞台
-東方衛視國際頻道
 KIX
 Nick Jr
 Nickelodeon
 AXN
 i-Fun 動漫台
-iFun动漫台
 NHK World-Japan
 ZooMoo
 NHK東京総合
@@ -81,10 +80,6 @@ Astro iQIYI
 Astro Xing He
 Astro AEC
 纬来体育台
-纬来日本台
-东森幼幼台
-爱尔达影剧台
-天映频道A
 
 🌊港·澳·台,#genre#
 翡翠台
