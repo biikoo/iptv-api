@@ -22,6 +22,90 @@ CETV2
 CETV4
 CETV5
 
+📡AKTV,#genre#
+美亞電影台(HK)
+PopC
+靖天電影台
+龍華電影台
+龍華經典台
+龍華日韓台
+鳳凰中文
+鳳凰資訊
+鳳凰香港
+無線新聞台
+无线新闻台(北美)
+無線衛星新聞台
+翡翠台
+翡翠综合台(北美)
+千禧經典台(HK)
+翡翠剧集台(北美)
+娛樂新聞台(HK)
+黃金翡翠台
+TVB Plus
+中天新聞台
+TVBS
+TVBS-新聞台
+東森新聞
+寰宇新聞台
+亞洲新聞台
+東方衛視國際頻道
+明珠台
+明珠剧集台(北美)
+中天亞洲台
+myTV SUPER 18台
+中視
+Channel 8 HD
+Channel 5 HD
+viutv 99
+華視
+28 AI 智慧賽馬
+tvN
+ROCK Action
+viutv6 96
+Channel U HD
+Animax(HK)
+Thrill
+France 24
+DW
+KIX
+Nick Jr
+Nickelodeon
+AXN
+i-Fun 動漫台
+NHK World-Japan
+ZooMoo
+NHK東京総合
+Love Nature HD
+Astro iQIYI
+Astro Xing He
+Astro AEC
+纬来体育台
+
+🌊港·澳·台,#genre#
+翡翠台
+明珠台
+凤凰中文
+凤凰资讯
+凤凰香港
+凤凰卫视
+TVBS亚洲
+香港卫视
+纬来体育
+纬来育乐
+J2
+Viutv
+三立台湾
+无线新闻
+三立新闻
+东森综合
+东森超视
+东森电影
+Now剧集
+Now华剧
+靖天资讯
+星卫娱乐
+卫视卡式
+
 💰央视付费频道,#genre#
 文化精品
 央视台球
